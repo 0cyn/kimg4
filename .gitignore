@@ -1,0 +1,4 @@
+dist/
+kimg4.egg-info/
+.idea/
+tests/bins
